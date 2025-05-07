@@ -1,23 +1,23 @@
-# 📊 Histórico de Ventas Tienda Analytika
+# 📊 Historical Sales of Analytika Store
 
-## 📝 Contexto
-En este proyecto se desarrolló un dashboard interactivo en Power BI para analizar el **histórico de ventas** de la tienda Analytika en el periodo **2014-2017**.  
-El objetivo principal fue visualizar el desempeño de ventas en distintas dimensiones geográficas y de producto, para identificar tendencias, oportunidades y áreas de mejora.
+## 📝 Context
+In this project, an interactive dashboard was developed in Power BI to analyze the **sales history** of the Analytika store during the period **2014-2017**.  
+The main objective was to visualize sales performance across different geographic and product dimensions to identify trends, opportunities, and areas for improvement.
 
-## 🛠️ Herramientas Utilizadas
-- **Power BI**: Creación de dashboards dinámicos e interactivos.
-- **Bases de Datos de Ventas**: Información de ventas, artículos vendidos, categorías y segmentos.
+## 🛠️ Tools Used
+- **Power BI**: Creation of dynamic and interactive dashboards.
+- **Sales Databases**: Sales information, sold items, categories, and segments.
 
-## 📈 Análisis de Resultados
-- Visualización de las ventas totales y número de artículos vendidos.
-- Análisis de métricas clave:
-  - Ventas por región (Central, Sur, Oeste y Este).
-  - Evolución de ventas por año y región.
-  - Ventas por categoría de producto y región.
-  - Ventas por segmento de cliente y región.
-  - Detalle en tabla de artículos: subcategoría, ventas y artículos vendidos.
+## 📈 Results Analysis
+- Visualization of total sales and number of items sold.
+- Analysis of key metrics:
+  - Sales by region (Central, South, West, and East).
+  - Sales evolution by year and region.
+  - Sales by product category and region.
+  - Sales by customer segment and region.
+  - Detailed table of items: subcategory, sales, and items sold.
 
-## 📋 Conclusiones
-- Se pueden identificar las regiones con mayor volumen de ventas y su evolución a lo largo de los años.
-- El desglose por categoría y segmento ofrece visibilidad sobre qué productos y tipos de clientes impulsan las ventas en cada región.
-- El dashboard proporciona información detallada para tomar decisiones estratégicas sobre qué productos potenciar y qué mercados priorizar.
+## 📋 Conclusions
+- Regions with the highest sales volume and their evolution over the years can be identified.
+- The breakdown by category and segment provides visibility into which products and customer types drive sales in each region.
+- The dashboard provides detailed information to make strategic decisions on which products to promote and which markets to prioritize.
